@@ -17,7 +17,7 @@ import Footer from "./components/footer.vue";
    <Nav></Nav> 
    <Header></Header>
    <TheCanvas></TheCanvas>
-    <About></About>
+    <About ></About>
     <Portfolio ></Portfolio>
     <WorkExperience ></WorkExperience>
     <Educational ></Educational>

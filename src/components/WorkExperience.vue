@@ -1,6 +1,6 @@
 <template>
   <!-- WorkExperience -->
-  <section class="page-section about" id="experience">
+  <section class="page-section about" id="experience" data-aos="fade-up">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">

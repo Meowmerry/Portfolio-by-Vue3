@@ -1,7 +1,7 @@
 <template>
 
   <!-- Portfolio Grid -->
-  <section class="bg-light page-section" id="portfolio">
+  <section class="bg-light page-section" id="portfolio" data-aos="fade-up">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">

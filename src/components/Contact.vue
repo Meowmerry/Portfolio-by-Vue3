@@ -1,6 +1,6 @@
 <template>
     <!-- Contact -->
-    <section class="page-section" id="contact">
+    <section class="page-section" id="contact" data-aos="fade-up">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">

@@ -2,7 +2,7 @@
 
 <template>
     <!-- Educational-->
-    <section class="bg-light page-section" id="educational">
+    <section class="bg-light page-section" id="educational"  data-aos="fade-up">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
