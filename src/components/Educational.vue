@@ -86,11 +86,9 @@
         </div>
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <p
+            <code
               class="large text-muted"
-            >Professional software engineer of experience contributing to the design and software development.
-I enjoy the frontend aspect of design which focuses on visuals and client needs.
-Excellent capabilities identifying potential issues and implementing product solutions. Strong problem solving and organizational skills useful in any multidisciplinary setting. Effective in a team atmosphere with thoughtful attention to communication.</p>
+            >Professional software engineer with experience contributing to design and software development. I enjoy the frontend aspect of design which focuses on visuals and client needs. Excellent capabilities in identifying potential issues and implementing product solutions. Strong problem-solving and organizational skills were useful in any multidisciplinary setting. Effective in a team atmosphere with thoughtful attention to communication.</code>
           </div>
         </div>
       </div>

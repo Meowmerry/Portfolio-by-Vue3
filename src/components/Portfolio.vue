@@ -55,13 +55,13 @@ export default {
         img: iEnergywhiz,
         caption: "iEnergywhiz",
         href: "https://www.ienergywhiz.com/",
-        title: "React & Redux with MongoDB",
+        title: "(GridWhiz) React & Redux with MongoDB",
       },
       {
         img: Level11,
-        caption: "Asset management software",
+        caption: "Head fund platform",
         href: "https://staging.level11.dev/login",
-        title: "ReactHook with NextJs and Postgresql",
+        title: "(Level11) ReactHook with NextJs and Postgresql",
       },
       {
         img: Restaurant,
@@ -80,7 +80,7 @@ export default {
           "https://chargerod.com/wp-content/uploads/2021/02/ptt-ev-charger.jpg",
         caption: "EV Station",
         href: "https://evstation.pttor.com/",
-        title: "React/Redux Project",
+        title: "(GridWhiz) React/Redux Project",
       },
       {
         img:

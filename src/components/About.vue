@@ -9,8 +9,8 @@
             <h2>I am a Web Front End Developer.</h2>
           </div>
         </div>
-        <div class="row-flex ">
-          <div class="col-lg-6 pl-5">
+        <div class="row-flex">
+          <div class="col-lg-6 pl-3">
             <h4 class="service-heading text-center">PERSONAL PROFILE</h4>
             <p
               class="text-muted"
@@ -33,7 +33,7 @@
             <h4 class="service-heading">AREAS OF EXPERTISE</h4>
             <ul class="b">
               <li>JavaScript (ES6+), TypeScript</li>
-              <li>JReact, Redux, Next.js</li>
+              <li>React, Redux, Next.js</li>
               <li>HTML, CSS/SCSS, Styled Components</li>
               <li>Material UI, AntDesign, Tailwind, Bootstrap</li>
               <li>Webpack, Node.js, </li>

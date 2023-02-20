@@ -42,21 +42,17 @@ to prepare for rapid scaling and optimized debugging and maintainability of code
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>Dec 2020 - Aug 2022</h4>
-                  <h3 class="subheading">Level-11 company</h3>
+                  <h3 class="subheading">Level-11</h3>
                   <h5>Software Engineer</h5>
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                    <li>Utilized React with Typescript creating a user customizable hedge fund app via Next.js SSR technology with dynamic,
-server-rendered content decreasing management overhead.</li>
-                    <li>Leveraged React to migrate a multi-page user experience into a single page to improve customer engagement.</li>
-                    <li>Developed application features to provide a central hub for employees to collaborate across the organization with file sharing,
-discussion groups announcements.</li>
-                    <li>Created multiple designs using Storybook, allowing a team to build UIs in isolation in the application.</li>
-                    <li>Employed Next.js dynamic client-side routing, integrating public and private routes for user-controlled access while
-standardizing the behavior and application structure resulting in decreasing server calls.</li>
-                    <li>Created middleware functions in Golang to handle endpoint requests to modularize backend requests with a discernible chain
-of responsibility and separation of concern.</li>
+                    <li>Developed a customer head fund platform that allows the company for identifying and verifying clients with the data being stored in a SQL database.</li>
+                    <li>Created assessment forms through React.js for different customer stages that cut processing time by 30%.</li>
+                    <li>Extensive usage of Storybook, allowing a team to build UIs in isolation in the application..</li>
+                    <li>Employed Next.js to create a landing page and frame for a web app due to its ability to split code automatically for quicker
+intuitive page routing, and SEO-friendly static-site generation.</li>
+                    <li>Implemented middleware functions in Golang to handle endpoint requests to modularize backend requests with a discernible chain of responsibility and separation of concerns.</li>
                   </ul>
                 </div>
               </div>
@@ -68,20 +64,19 @@ of responsibility and separation of concern.</li>
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>Oct 2019 - Dec 2020</h4>
-                  <h3 class="subheading">Gridwiz Thailand</h3>
+                  <h3 class="subheading">GridWhiz Thailand</h3>
                   <h5>Frontend Web Development</h5>
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                    <li>Built iEnergyWhiz, a real-time energy big data analytics and visualization platform with integration to automatic demand
-response program with React to take advantage of the immutable, unidirectional data flow and rendering UI components with
-data-heavy state management.</li>
-                    <li>Utilized React Hooks and Context API for accessible state management to support the state of functional components
-influenced by asynchronous data fetching as a measure to prevent unnecessary rendering.</li>
-                    <li>Collaborate cross-functionally with the design team and back end team to develop the front end application data flow.</li>
-                    <li>Leveraged Redux to preserve predictable state management changes using the observer pattern of nested data sets and
-micro-actions across the app’s components for efficient debugging.</li>
-                    <li>Conducted code peer reviews with teammates to ensure software solution elevated client side experience.</li>
+                    <li>Take advantage of React Hooks and Context API for accessible state management to support the state of functional components influenced by asynchronous data fetching as a measure to prevent unnecessary rendering.</li>
+                    <li>Collaborate cross-functionally with the design and back-end teams to develop the front-end application data flow.</li>
+                    <li>Optimized React-Router with dynamic client-side routing integrating public and private routes for controlling user
+access of nested views and standardizing the user behavior and application structure resulting in overall minimized
+server calls.</li>
+                    <li>Worked on responsive design and elaborated a single iEnergyWhiz responsive website that could be served to desktop,
+Tablets, and mobile users using React.js.</li>
+                    <li>Conducted code peer reviews with teammates to ensure software solutions elevated client-side experience.</li>
                   </ul>
                 </div>
               </div>
@@ -98,9 +93,9 @@ micro-actions across the app’s components for efficient debugging.</li>
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                   <li>Developed a Chrome DevTool for Svelte with Chrome Manifest Version 3 to locate and parse incoming resources, walking the resulting abstract syntax tree to isolate web page components, algorithmically extracting state and props.</li>
-                   <li>Used D3.js to create SVGs displaying dependency trees, component hierarchies, component rendering for simple and organized application visualization during the developing and debugging process for dev users.</li>
-                   <li>Achieved Contributors and Navbar features for the Svletool website using WebGL to display details and information.</li>
+                   <li>Integrate a Chrome DevTool for Svelte with Chrome Manifest Version 3 to locate and parse incoming resources, walking the resulting abstract syntax tree to isolate web page components, algorithmically extracting state and props.</li>
+                   <li>Utilized D3.js to create SVGs displaying dependency trees, component hierarchies, and component rendering for simple and organized application visualization during the developing and debugging process for dev users.</li>
+                   <li>Contributors and Navbar features for the Svletool website using WebGL to display details and information.</li>
                    <li>Product developed and maintained under tech accelerator OS Labs (http://opensourcelabs.io).</li>
                   </ul>
                 </div>
