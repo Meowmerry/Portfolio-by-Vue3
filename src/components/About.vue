@@ -12,17 +12,17 @@
         <div class="row-flex">
           <div class="col-lg-6 pl-3">
             <h4 class="service-heading text-center">PERSONAL PROFILE</h4>
-            <p
+            <code
               class="text-muted"
             >I currently am working as a web developer, which is where my passion for working on the development converge.
              See my previous work history on LinkedIn. Outside of work I have a beautiful family and many friends (obviously). 
              I am also working on a few side projects including web design.
              Passionate and hardworking with a penchant for meeting deadlines.
-             Interested in roles indulging in best practices and offering diverse customer projects.</p>
-             <p
+             Interested in roles indulging in best practices and offering diverse customer projects.</code>
+             <code
               class="text-muted"
             >
-             Currently I am not accepting freelance work, but I'd love to get coffee and get to know you, so don’t hesitate to get in touch.</p>
+             Currently I am not accepting freelance work, but I'd love to get coffee and get to know you, so don’t hesitate to get in touch.</code>
           </div>
           <div class="col-lg-1"></div>
           <div class="col-lg-5 text-center">
@@ -32,19 +32,19 @@
             </span>
             <h4 class="service-heading">AREAS OF EXPERTISE</h4>
             <ul class="b">
-              <li>JavaScript (ES6+), TypeScript</li>
-              <li>React, Redux, Next.js</li>
-              <li>HTML, CSS/SCSS, Styled Components</li>
-              <li>Material UI, AntDesign, Tailwind, Bootstrap</li>
-              <li>Webpack, Node.js, </li>
-              <li>Express,RESTful APIs,</li>
-              <li>Version Control (Gig/GitHub/GigLab)</li>
-              <li>TDD (Jess, Cypress, and React Testing Library)</li>
-              <li>HTTP/JSON/AJAX - RESTful API Design</li>
-              <li>Storybook, Go-language, GraphQL</li>
-              <li>MySQL/PostgreSQL, MongoDB, Docker</li>
-              <li>D3.js, Three.js, Svelte, Vue,</li>
-              <li>AWS (Amazon Elastic Compute Cloud), Authentication, JWTs.</li>
+              <li><code>JavaScript (ES6+), TypeScript</code></li>
+              <li><code>React, Redux, Next.js</code></li>
+              <li><code>HTML, CSS/SCSS, Styled Components</code></li>
+              <li><code>Material UI, AntDesign, Tailwind, Bootstrap</code></li>
+              <li><code>Webpack, Node.js</code> </li>
+              <li><code>Express,RESTful APIs</code></li>
+              <li><code>Version Control (Gig/GitHub/GigLab)</code></li>
+              <li><code>TDD (Jess, Cypress, and React Testing Library)</code></li>
+              <li><code>HTTP/JSON/AJAX - RESTful API Design</code></li>
+              <li><code>Storybook, Go-language, GraphQL</code></li>
+              <li><code>MySQL/PostgreSQL, MongoDB, Docker</code></li>
+              <li><code>D3.js, Three.js, Svelte, Vue,</code></li>
+              <li><code>AWS (Amazon Elastic Compute Cloud), Authentication, JWTs.</code></li>
             </ul>
           </div>
         </div>

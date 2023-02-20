@@ -22,14 +22,14 @@
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                    <li>Created an intuitive column profile to allow users to easily change columns and choose appropriate column profiles with
-Material UI, CSS, React and TypeScript</li>
-                    <li>Developed the state management infrastructure using Redux Toolkit to preserve predictable state management change.</li>
-                    <li>Utilized Material UI to modernize design on insight web page following UI/UX best practices and to improve user functionality
-and end user feedback while interacting with the application.</li>
-                    <li>Migrated codebase from class component to function component to enhance code readability and to use React Hook in order
-to prepare for rapid scaling and optimized debugging and maintainability of code.</li>
-                    <li>Modularized components to increase code comprehension and reusability.</li>
+                    <li><code>Created an intuitive column profile to allow users to easily change columns and choose appropriate column profiles with
+Material UI, CSS, React and TypeScript</code></li>
+                    <li><code>Developed the state management infrastructure using Redux Toolkit to preserve predictable state management change.</code></li>
+                    <li><code>Utilized Material UI to modernize design on insight web page following UI/UX best practices and to improve user functionality
+and end user feedback while interacting with the application.</code></li>
+                    <li><code>Migrated codebase from class component to function component to enhance code readability and to use React Hook in order
+to prepare for rapid scaling and optimized debugging and maintainability of code.</code></li>
+                    <li><code>Modularized components to increase code comprehension and reusability.</code></li>
                   </ul>
                 </div>
               </div>
@@ -47,12 +47,12 @@ to prepare for rapid scaling and optimized debugging and maintainability of code
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                    <li>Developed a customer head fund platform that allows the company for identifying and verifying clients with the data being stored in a SQL database.</li>
-                    <li>Created assessment forms through React.js for different customer stages that cut processing time by 30%.</li>
-                    <li>Extensive usage of Storybook, allowing a team to build UIs in isolation in the application..</li>
-                    <li>Employed Next.js to create a landing page and frame for a web app due to its ability to split code automatically for quicker
-intuitive page routing, and SEO-friendly static-site generation.</li>
-                    <li>Implemented middleware functions in Golang to handle endpoint requests to modularize backend requests with a discernible chain of responsibility and separation of concerns.</li>
+                    <li><code>Developed a customer head fund platform that allows the company for identifying and verifying clients with the data being stored in a SQL database.</code></li>
+                    <li><code>Created assessment forms through React.js for different customer stages that cut processing time by 30%.</code></li>
+                    <li><code>Extensive usage of Storybook, allowing a team to build UIs in isolation in the application.</code></li>
+                    <li><code>Employed Next.js to create a landing page and frame for a web app due to its ability to split code automatically for quicker
+intuitive page routing, and SEO-friendly static-site generation.</code></li>
+                    <li><code>Implemented middleware functions in Golang to handle endpoint requests to modularize backend requests with a discernible chain of responsibility and separation of concerns.</code></li>
                   </ul>
                 </div>
               </div>
@@ -69,14 +69,14 @@ intuitive page routing, and SEO-friendly static-site generation.</li>
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                    <li>Take advantage of React Hooks and Context API for accessible state management to support the state of functional components influenced by asynchronous data fetching as a measure to prevent unnecessary rendering.</li>
-                    <li>Collaborate cross-functionally with the design and back-end teams to develop the front-end application data flow.</li>
-                    <li>Optimized React-Router with dynamic client-side routing integrating public and private routes for controlling user
+                    <li><code>Take advantage of React Hooks and Context API for accessible state management to support the state of functional components influenced by asynchronous data fetching as a measure to prevent unnecessary rendering.</code></li>
+                    <li><code>Collaborate cross-functionally with the design and back-end teams to develop the front-end application data flow.</code></li>
+                    <li><code>Optimized React-Router with dynamic client-side routing integrating public and private routes for controlling user
 access of nested views and standardizing the user behavior and application structure resulting in overall minimized
-server calls.</li>
-                    <li>Worked on responsive design and elaborated a single iEnergyWhiz responsive website that could be served to desktop,
-Tablets, and mobile users using React.js.</li>
-                    <li>Conducted code peer reviews with teammates to ensure software solutions elevated client-side experience.</li>
+server calls.</code></li>
+                    <li><code>Worked on responsive design and elaborated a single iEnergyWhiz responsive website that could be served to desktop,
+Tablets, and mobile users using React.js.</code></li>
+                    <li><code>Conducted code peer reviews with teammates to ensure software solutions elevated client-side experience.</code></li>
                   </ul>
                 </div>
               </div>
@@ -93,10 +93,10 @@ Tablets, and mobile users using React.js.</li>
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                   <li>Integrate a Chrome DevTool for Svelte with Chrome Manifest Version 3 to locate and parse incoming resources, walking the resulting abstract syntax tree to isolate web page components, algorithmically extracting state and props.</li>
-                   <li>Utilized D3.js to create SVGs displaying dependency trees, component hierarchies, and component rendering for simple and organized application visualization during the developing and debugging process for dev users.</li>
-                   <li>Contributors and Navbar features for the Svletool website using WebGL to display details and information.</li>
-                   <li>Product developed and maintained under tech accelerator OS Labs (http://opensourcelabs.io).</li>
+                   <li><code>Integrate a Chrome DevTool for Svelte with Chrome Manifest Version 3 to locate and parse incoming resources, walking the resulting abstract syntax tree to isolate web page components, algorithmically extracting state and props.</code></li>
+                   <li><code>Utilized D3.js to create SVGs displaying dependency trees, component hierarchies, and component rendering for simple and organized application visualization during the developing and debugging process for dev users.</code></li>
+                   <li><code>Contributors and Navbar features for the Svletool website using WebGL to display details and information.</code></li>
+                   <li><code>Product developed and maintained under tech accelerator OS Labs (http://opensourcelabs.io).</code>Product developed and maintained under tech accelerator OS Labs (http://opensourcelabs.io).</li>
                   </ul>
                 </div>
               </div>

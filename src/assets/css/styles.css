@@ -743,10 +743,14 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
   background-color: #fed136;
 }
-ul.b {
+code {
+  color: #6c757d !important;
+}
+ul.b  {
   list-style-type: square;
   text-align: left;
   padding-left: 10%;
+  color: #6c757d !important;
 }
 .imgLogo {
   width: 40%;
