@@ -1,10 +1,11 @@
-# vue-portfolio
+# Portfolio with VueJs 3
+
+![giphy](https://user-images.githubusercontent.com/50789325/219964866-efd1dffd-9c74-45a6-81ce-d4c383282437.gif)
 
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
