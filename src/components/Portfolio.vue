@@ -101,26 +101,26 @@ export default {
         href: "https://wanderlust-weather.netlify.app/",
         title: "The WEATHER! - API HTTP Requests",
       },
-      {
-        img: BootStrap,
-        caption: "Welcome to my World!",
-        href: "https://welcome-to-myworld.netlify.app/",
-        title: "Bootstrap Project",
-      },
-      {
-        img:
-          "https://marina-ferreira.github.io/img/tutorials/js/memory-game/memory-game.gif",
-        caption: "Javascript Memory game",
-        href: "https://js-memery-game.netlify.app/",
-        title: "HTML, CSS, Javascript Project",
-      },
-      {
-        img:
-          "https://static-assets.codecademy.com/Courses/Learn-JavaScript/Event-Loop-and-Concurrency/JavaScript-Engine-Diagram.png",
-        caption: "Concurrency Model and Event Loop in JavaScript",
-        href: "https://event-loop-callstack-javascript.netlify.app/",
-        title: "HTML, CSS, Javascript Project",
-      },
+      // {
+      //   img: BootStrap,
+      //   caption: "Welcome to my World!",
+      //   href: "https://welcome-to-myworld.netlify.app/",
+      //   title: "Bootstrap Project",
+      // },
+      // {
+      //   img:
+      //     "https://marina-ferreira.github.io/img/tutorials/js/memory-game/memory-game.gif",
+      //   caption: "Javascript Memory game",
+      //   href: "https://js-memery-game.netlify.app/",
+      //   title: "HTML, CSS, Javascript Project",
+      // },
+      // {
+      //   img:
+      //     "https://static-assets.codecademy.com/Courses/Learn-JavaScript/Event-Loop-and-Concurrency/JavaScript-Engine-Diagram.png",
+      //   caption: "Concurrency Model and Event Loop in JavaScript",
+      //   href: "https://event-loop-callstack-javascript.netlify.app/",
+      //   title: "HTML, CSS, Javascript Project",
+      // },
     ],
   }),
 };
