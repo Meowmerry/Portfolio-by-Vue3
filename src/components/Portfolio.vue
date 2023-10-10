@@ -36,29 +36,23 @@
 </template>
 <script>
 import landingPage from '../assets/img/Landing-Page.png';
-// import iEnergywhiz from '../assets/img/ienergy.png';
+import iEnergywhiz from '../assets/img/ienergy.png';
 import Gym from '../assets/img/gym.png';
 import Level11 from '../assets/img/level.png';
 import Restaurant from '../assets/img/reserved.png';
 import Petcare from "../assets/img/petCare.png";
 import Weather from "../assets/img/wether.jpeg";
 import BootStrap from "../assets/img/bootstrap.png";
+import SlaveVoyage from '../assets/img/SlaveVoyage.png'
 export default {
   data: () => ({
     portfolioJSON: [
-        {
-        img:landingPage,
-        caption: "Influencer-Platform",
-        href: "https://github.com/Meowmerry/INFLUENCER-AGENCIES-PLATFORM",
-        title: "ReactHook & NextJs TypeScript with MongoDB",
+    {
+        img: SlaveVoyage,
+        caption: "SlaveVoyages",
+        href: "https://github.com/ThasaneePuttamadilok/voyages-frontend",
+        title: "(Slavevoyages) React & Redux TypeScript with Python",
       },
-       {
-        img: Gym,
-        caption: "Meow-IV-Fitness",
-        href: "https://github.com/Meowmerry/Gym-App-with-TypeScript-in-React-Application",
-        title: "(Women Fit) React & TypeScript TailwindCSS",
-      },
-
       // {
       //   img: iEnergywhiz,
       //   caption: "iEnergywhiz",
@@ -72,6 +66,25 @@ export default {
         title: "(Level11) ReactHook with NextJs and Postgresql",
       },
       {
+        img:
+          "https://chargerod.com/wp-content/uploads/2021/02/ptt-ev-charger.jpg",
+        caption: "EV Station",
+        href: "https://evstation.pttor.com/",
+        title: "(GridWhiz) React/Redux Project",
+      },
+        {
+        img:landingPage,
+        caption: "Influencer-Platform",
+        href: "https://github.com/Meowmerry/INFLUENCER-AGENCIES-PLATFORM",
+        title: "ReactHook & NextJs TypeScript with MongoDB",
+      },
+       {
+        img: Gym,
+        caption: "Meow-IV-Fitness",
+        href: "https://github.com/Meowmerry/Gym-App-with-TypeScript-in-React-Application",
+        title: "(Women Fit) React & TypeScript TailwindCSS",
+      },
+      {
         img: Restaurant,
         caption: "Restaurant Reservation",
         href: "https://github.com/Meowmerry/Reservations-redux",
@@ -83,13 +96,7 @@ export default {
         href: "https://github.com/Meowmerry/PetCare",
         title: "React Project",
       },
-      {
-        img:
-          "https://chargerod.com/wp-content/uploads/2021/02/ptt-ev-charger.jpg",
-        caption: "EV Station",
-        href: "https://evstation.pttor.com/",
-        title: "(GridWhiz) React/Redux Project",
-      },
+   
       {
         img:
           "https://static.vecteezy.com/system/resources/previews/004/666/571/non_2x/area-chart-blue-flat-design-long-shadow-glyph-icon-rising-graph-with-indexes-increasing-diagram-business-report-visualization-marketing-research-presentation-silhouette-illustration-vector.jpg",
