@@ -10,7 +10,29 @@
       <div class="row">
         <div class="col-lg-12">
           <ul class="timeline">
-            <li>
+
+            <li >
+              <div class="timeline-image">
+                <img class="rounded-circle img-fluid"   />
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>May 2023 - Present</h4>
+                  <h3 class="subheading">Rice University</h3>
+                  <h5>Frontend Developer</h5>
+                </div>
+                <div class="timeline-body">
+                  <ul class="b">
+                    <li><code>Led the setup and development of the frontend SlaveVoyage project, resulting in a 25% performance boost by optimizing code and enhancing user experience.</code></li>
+                    <li><code>Built a robust and scalable frontend architecture using React TypeScript, resulting in a 20% improvement in development efficiency.</code></li>
+                    <li><code>Engineered a streamlined Redux-based state management solution, enhancing data flow and drastically simplifying the project's application architecture.</code></li>
+                    <li><code>Spearheaded the development of user-centric UIs, specifically focusing on the Networks Graph and Estimate feature, driving a 30% growth in user retention and a 20% rise in customer satisfaction.</code></li>
+                    <li><code>Implemented an intuitive modal network graph and map features using React and d3.js, enhancing user understanding by visually representing voyages, slaves, and enslavers for an enriched and interactive experience.</code></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
               <div class="timeline-image">
                 <img class="rounded-circle img-fluid"   />
               </div>
@@ -35,7 +57,7 @@ to prepare for rapid scaling and optimized debugging and maintainability of code
               </div>
             </li>
 
-            <li class="timeline-inverted">
+            <li >
               <div class="timeline-image">
                 <img class="rounded-circle img-fluid"   />
               </div>
@@ -57,7 +79,7 @@ intuitive page routing, and SEO-friendly static-site generation.</code></li>
                 </div>
               </div>
             </li>
-            <li >
+            <li class="timeline-inverted">
               <div class="timeline-image">
                 <img class="rounded-circle img-fluid"   />
               </div>
@@ -69,19 +91,16 @@ intuitive page routing, and SEO-friendly static-site generation.</code></li>
                 </div>
                 <div class="timeline-body">
                   <ul class="b">
-                    <li><code>Take advantage of React Hooks and Context API for accessible state management to support the state of functional components influenced by asynchronous data fetching as a measure to prevent unnecessary rendering.</code></li>
-                    <li><code>Collaborate cross-functionally with the design and back-end teams to develop the front-end application data flow.</code></li>
-                    <li><code>Optimized React-Router with dynamic client-side routing integrating public and private routes for controlling user
-access of nested views and standardizing the user behavior and application structure resulting in overall minimized
+                    <li><code>Engineered efficient state management with React Hooks, enhancing functional components responsiveness during asynchronous data fetching.</code></li>
+                    <li><code>Optimized React-Router for dynamic client-side routing, streamlining public and private routes, minimizing server calls, and ensuring a standardized user experience.</code></li>
+                    <li><code>Spearheaded a responsive iEnergyWhiz website, unifying user interfaces across desktops, tablets, and mobile devices using React.js.
 server calls.</code></li>
-                    <li><code>Worked on responsive design and elaborated a single iEnergyWhiz responsive website that could be served to desktop,
-Tablets, and mobile users using React.js.</code></li>
-                    <li><code>Conducted code peer reviews with teammates to ensure software solutions elevated client-side experience.</code></li>
+                    <li><code>Collaborated closely with UX/UI designers to craft visually compelling applications meeting user requirements.</code></li>
                   </ul>
                 </div>
               </div>
             </li>
-            <li class="timeline-inverted">
+            <li >
               <div class="timeline-image">
                 <img class="rounded-circle img-fluid"   />
               </div>

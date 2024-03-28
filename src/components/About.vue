@@ -13,17 +13,17 @@
         <div class="col-lg-6 pl-3">
           <h4 class="service-heading text-center">PERSONAL PROFILE</h4>
           <code
-            class="text-muted">I currently work as a web developer, which is where my passion for development converges. </code>
+            class="text-muted">I am currently employed as a web developer, where my passion for development is fully realized.  </code>
           <code
-            class="text-muted"> As a professional software engineer, I have experience contributing to the design and development of software.</code>
+            class="text-muted">With a professional background in software engineering, I have actively contributed to designing and developing software solutions.</code>
           <code
-            class="text-muted">I particularly enjoy the front-end aspect of design, which involves creating visually appealing and user-friendly interfaces that meet client needs. </code>
+            class="text-muted">My particular affinity lies in front-end design, where I craft visually captivating and user-centric interfaces tailored to meet client requirements. </code>
           <code
-            class="text-muted"> I'm interested in roles that involve best practices and offer diverse customer projects. </code>
-          <code class="text-muted"> I have excellent skills in identifying potential issues and implementing effective solutions for products. Additionally, my strong problem-solving and organizational abilities make me a valuable asset in any multidisciplinary setting.
+            class="text-muted">I am keen on roles that embrace best practices and offer a variety of challenging projects. My expertise extends to adeptly identifying potential issues and implementing impactful solutions. </code>
+          <code class="text-muted">Furthermore, my robust problem-solving skills and organizational acumen make me an invaluable asset in diverse, collaborative environments. 
   </code>
           <code class="text-muted">
-              I work well in a team atmosphere and prioritize effective communication to ensure that everyone is on the same page.
+            I thrive in team settings, fostering effective communication to ensure seamless coordination and alignment among team members.
   </code>
         </div>
         <div class="col-lg-1"></div>
