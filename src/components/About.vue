@@ -13,17 +13,14 @@
         <div class="col-lg-6 pl-3">
           <h4 class="service-heading text-center">PERSONAL PROFILE</h4>
           <code
-            class="text-muted">I am currently employed as a Software Engineer, where my passion for development is fully realized.  </code>
+            class="text-muted">I'm a Software Engineer with a passion for front-end design and user-centric solutions.</code>
           <code
-            class="text-muted">With a professional background in software engineering, I have actively contributed to designing and developing software solutions.</code>
+            class="text-muted">With experience in software engineering, I specialize in crafting visually captivating interfaces to meet client needs.</code>
           <code
-            class="text-muted">My particular affinity lies in front-end design, where I craft visually captivating and user-centric interfaces tailored to meet client requirements. </code>
+            class="text-muted">I'm driven by the opportunity to create impactful products that enhance user experiences. </code>
           <code
-            class="text-muted">I'm deeply passionate about creating impactful products that enhance users' lives. My focus is on collaborative innovation, aligning with companies that prioritize user-centricity and continuous improvement. </code>
-          <code class="text-muted">I believe in leveraging technology to solve real-world problems and make a positive difference in people's experiences.
-  </code>
-          <code class="text-muted">
-            I thrive in team settings, fostering effective communication to ensure seamless coordination and alignment among team members.
+            class="text-muted"> I thrive in collaborative environments and prioritize continuous improvement.</code>
+          <code class="text-muted">Let's leverage technology to solve real-world problems and make a positive difference together.
   </code>
         </div>
         <div class="col-lg-1"></div>
