@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">ABOUT</h2>
-          <h2 class="section-subheading text-muted">Hello, my name is Thasanee.</h2>
+          <h2 class="section-subheading text-muted">Hello, my name is Tiffany.</h2>
           <h2>I am a Web Front End Developer.</h2>
         </div>
       </div>
@@ -13,14 +13,14 @@
         <div class="col-lg-6 pl-3">
           <h4 class="service-heading text-center">PERSONAL PROFILE</h4>
           <code
-            class="text-muted">I am currently employed as a web developer, where my passion for development is fully realized.  </code>
+            class="text-muted">I am currently employed as a Software Engineer, where my passion for development is fully realized.  </code>
           <code
             class="text-muted">With a professional background in software engineering, I have actively contributed to designing and developing software solutions.</code>
           <code
             class="text-muted">My particular affinity lies in front-end design, where I craft visually captivating and user-centric interfaces tailored to meet client requirements. </code>
           <code
-            class="text-muted">I am keen on roles that embrace best practices and offer a variety of challenging projects. My expertise extends to adeptly identifying potential issues and implementing impactful solutions. </code>
-          <code class="text-muted">Furthermore, my robust problem-solving skills and organizational acumen make me an invaluable asset in diverse, collaborative environments. 
+            class="text-muted">I'm deeply passionate about creating impactful products that enhance users' lives. My focus is on collaborative innovation, aligning with companies that prioritize user-centricity and continuous improvement. </code>
+          <code class="text-muted">I believe in leveraging technology to solve real-world problems and make a positive difference in people's experiences.
   </code>
           <code class="text-muted">
             I thrive in team settings, fostering effective communication to ensure seamless coordination and alignment among team members.
